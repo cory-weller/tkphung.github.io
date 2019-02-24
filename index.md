@@ -3,7 +3,7 @@ layout: default
 title: Thien-Khoi N. Phung
 ---
 
-<center><img src="/assets/img/hs.jpg" width="300" height="300"></center>
+<center><img src="/assets/img/headshot.jpg" width="300" height="300"></center>
 
 My name is T.K. Phung. I am a PhD student in the [Cardiac Biomechanics Group](http://www.bme.virginia.edu/holmes/) in the Department of Biomedical Engineering at the University of Virginia. My work at UVA has involved developing computational electrical and mechanical models to guide therapies in the heart.
 
