@@ -14,7 +14,7 @@ My interests span
 My PhD work has explored the development and use of computational mechanical models to test therapies in the heart:
 
 <center>
-<img src="/assets/img/atria.jpg" height="300">
+<img src="/assets/img/atria.jpg">
 
 [Predicting the effect of various catheter ablation patterns on left atrial function using a coupled finite-element and hydraulic circuit model](https://doi.org/10.1111/pace.13086)
 </center>
