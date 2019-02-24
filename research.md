@@ -4,13 +4,24 @@ title: Research
 ---
 
 # Research
+My interests span
+- cardiovascular and pulmonary biomechanics
+- computational modeling
+- data visualization
+- science communication
 
-<center><img src="/assets/img/Dros_58.jpg" height="210" width="300"></center>
-<center>Labbies at the 2017 Fly Meeting in San Diego</center>
+## Computational Modeling to Guide Cardiac Therapies
+My PhD work has explored the development and use of computational mechanical models to test therapies in the heart:
+
+<center>
+<img src="/assets/img/atria.jpg" height="300">
+
+[Predicting the effect of various catheter ablation patterns on left atrial function using a coupled finite-element and hydraulic circuit model](https://doi.org/10.1111/pace.13086)
+</center>
 
 
-## My Projects
-Lorem ipsum research etc
 
-## Mentoring
-Work with etc ...
+[Combining multimodal imaging to build personalized left ventricle models](https://simtk.org/projects/lvdatamap) for [clinically guiding cardiac resynchronization therapy](https://clinicaltrials.gov/ct2/show/NCT03398369)
+
+
+Developing fast, patient-specific electro-mechanical model of the left ventricle to predict mechanics following cardiac resynchronization therapy
